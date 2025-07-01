@@ -1,28 +1,79 @@
-# 💫 About Me:
-🔭 I’m currently working on a booking website called Nomora<br>👯 I’m looking to collaborate on projects that can upgrade my React knowledge<br>🤝 I’m looking for help with learning React<br>🌱 I’m currently learning React
+# ✨ About Me
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faju_frq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammed-Farzin-Farooque-t-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfarooquetk@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faju-frq&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=faju-frq&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faju-frq&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=faju-frq&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faju-frq&limit=5&theme=default&combine_all_yearly_contributions=true)
+👋 Hi, I'm **Muhammed Farzin Farooque T K** ([@faju-frq](https://github.com/faju-frq)), a motivated B.Tech IT graduate based in Bengaluru. I have a strong foundation in web development and am passionate about crafting efficient, user-friendly applications. My interests span both frontend and backend, with recent focus on API development, automation, and simple yet impactful web solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=faju-frq&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 Featured Projects
+
+- **[IMF-Gadget-API](https://github.com/faju-frq/IMF-Gadget-API):**  
+  Backend API for generating, deploying, destroying, and decommissioning gadgets of the Impossible Mission Force.  
+  *Tech: JavaScript (Node.js, Express)*
+
+- **[blog-api](https://github.com/faju-frq/blog-api):**  
+  A RESTful API for a basic blog application.  
+  *Tech: JavaScript (Node.js, Express)*
+
+- **[booking-api](https://github.com/faju-frq/booking-api):**  
+  A booking API supporting user registration, activity booking, and viewing booked activities with role-based access.  
+  *Tech: JavaScript (Node.js, Express, JWT Auth)*
+
+- **[ToDo-App](https://github.com/faju-frq/ToDo-App):**  
+  A simple and intuitive to-do list web app.  
+  *Tech: JavaScript, HTML, CSS*
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faju_frq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/muhammed-farzin-farooque-t-k)
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Backend, Core & API:
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Sequelize](https://img.shields.io/badge/Sequelize-%23232F3E.svg?style=for-the-badge&logo=sequelize&logoColor=%2361DAFB)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![CORS](https://img.shields.io/badge/CORS-%2320232A.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-%2320232A.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![express-validator](https://img.shields.io/badge/express--validator-%23404d59.svg?style=for-the-badge&logo=checkmarx&logoColor=%2361DAFB)
+![.ENV](https://img.shields.io/badge/.ENV-%2320232A.svg?style=for-the-badge&logo=dotenv&logoColor=white)
+
+### 💾 Database:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend & Styling:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Tools & Utilities:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%3DDD1100)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7BA3E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+
+### 📦 Documentation & Deployment:
+![OpenAPI](https://img.shields.io/badge/OpenAPI%20%7C%20Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
